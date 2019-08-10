@@ -8,6 +8,7 @@
 <!-- You can turn off the Compile on Save (or Deploy on Save) setting -->
 <!-- in the project's Project Properties dialog box.-->
 <nuevo boton - commit en rama test>
+<nuevo boton - commit segundo en test>
 <project name="EjemploJDBC" default="default" basedir=".">
     <description>Builds, tests, and runs the project EjemploJDBC.</description>
     <import file="nbproject/build-impl.xml agrego para el dos"/>
