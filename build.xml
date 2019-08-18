@@ -13,6 +13,7 @@
 <cambio de texto primero en text>
     <description>Builds, tests, and runs the project EjemploJDBC.</description>
     <import file="nbproject/build-impl.xml agrego para el dos"/>
+	<practica de github>
     <!--
 
     There exist several targets which are by default empty and which can be 
